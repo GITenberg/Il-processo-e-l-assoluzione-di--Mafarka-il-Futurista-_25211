@@ -1,0 +1,48 @@
+_repo: Il-processo-e-l-assoluzione-di--Mafarka-il-Futurista-_25211
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Cappa, Innocenzo
+    birthdate: 1875
+    gutenberg_agent_id: '31143'
+    url: http://www.gutenberg.org/2009/agents/31143
+  - agent_name: Barzilai, Salvatore
+    gutenberg_agent_id: '31142'
+    url: http://www.gutenberg.org/2009/agents/31142
+  - agent_name: Capuana, Luigi
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '2402'
+    url: http://www.gutenberg.org/2009/agents/2402
+    wikipedia: http://it.wikipedia.org/wiki/Luigi_Capuana
+  - agent_name: Marinetti, F. T.
+    alias: Marinetti, Filippo Tommaso
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '7634'
+    url: http://www.gutenberg.org/2009/agents/7634
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Filippo_Tommaso_Marinetti
+    - http://it.wikipedia.org/wiki/Filippo_Tommaso_Marinetti
+  - agent_name: Sarfatti, Cesare
+    gutenberg_agent_id: '31144'
+    url: http://www.gutenberg.org/2009/agents/31144
+description: ''
+gutenberg_bookshelf: IT Legge
+gutenberg_issued: '2008-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25211'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Futurism (Literary movement)'
+- !lcsh 'Marinetti, Filippo Tommaso, 1876-1944. Mafarka le futuriste'
+title: Il processo e l'assoluzione di "Mafarka il Futurista"
+url: http://www.gutenberg.org/ebooks/25211
